@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716887735755",
+    "project_id": "cineencasa-484e9",
+    "storage_bucket": "cineencasa-484e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716887735755:android:3280dd1dfb0e53518cca4e",
+        "android_client_info": {
+          "package_name": "com.example.tvmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHX8KzBLATRAP1EcPxSkigRW-01YepWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716887735755:android:c652c96296e547e08cca4e",
+        "android_client_info": {
+          "package_name": "com.example.tvmobile.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHX8KzBLATRAP1EcPxSkigRW-01YepWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
